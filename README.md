@@ -1,2 +1,2 @@
-# tictactoe
-A 'Complete Tic Tac Toe Game' using Python
+# Tic Tac Toe Game using Python Command Line
+## A 'Complete Tic Tac Toe Game' using Python with all Rules.
